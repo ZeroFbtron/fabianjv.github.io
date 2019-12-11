@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: imagenc++.png
 category: Services
 title: Death to the Stock Photo:<br>Special Thanks
 description: |
