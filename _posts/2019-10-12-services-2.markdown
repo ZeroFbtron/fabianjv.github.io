@@ -1,0 +1,10 @@
+---
+layout: default
+img: introduccion.png
+category: Services
+title: Introducción a Ingeniería del Software<br>
+description: |
+---
+  Es una de las materias de las cuales me ha ayudado con teorias, historia, metodologias, en relación a la programación.
+  Además, las distintas fases de desarrollo por las que pasa un proyecto informático, así como las actividades de gestión necesarias para lograr finalizar el proyecto con éxito.
+Y por eso, todo lo que he podido aprender y sigo aprendiendo es que el software en la actualidad está presente en todos los ámbitos de nuestras vidas, ya que ha invadido el mercado, la cultura y las actividades que realizamos porque nos permite ejecutarlas de forma más rápida y dinámica.
