@@ -6,7 +6,7 @@ url: http://fabianjv.github.io
 title: Professional Profile
 email: fabianjimenezv01@gmail.com
 author: Fabian Jiménez Vásquez
-description: > # "Write an awesome description for your new site here. 
+description: > # "Perfil en donde se relata informacion sobre las cosas que se han visto en la universidad durante estos meses. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
@@ -27,8 +27,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://twitter.com/FabianJV01
+  - title: github
+    url: https://github.com/ZeroFbtron
   - title: instagram
-    url: 
+    url: https://www.instagram.com/fabian_jimenezv01
