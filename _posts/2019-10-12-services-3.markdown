@@ -1,0 +1,8 @@
+---
+layout: default
+img: software.jpg
+category: Services
+title: Mi carrera
+description: |
+---
+La ingeniería del software es una especialidad que consiste en sistemas, instrumentos y técnicas que se emplean en el desarrollo de los programas informáticos, trata campos muy variados de la informática y de las Ciencias de la Computación, que además se aplican a un amplio espectro de campos, tales como negocios, investigación científica, medicina, producción, logística, banca, meteorología, derecho, redes, entre otras muchas. La Ingeniería de Software es la especialidad de la ingeniería que concibe y mantiene las aplicaciones de software aplicando técnicas  y pruebas de las ciencias computacionales, conducción de proyectos y otros campos.
