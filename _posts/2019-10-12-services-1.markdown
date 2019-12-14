@@ -5,4 +5,4 @@ category: Services
 title: Death to the Stock Photo:<br>Special Thanks
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  C++ tiene un alto rendimiento por varios motivos: Permite hacer llamadas directamente al Sistema Operativo. Es un lenguaje compilado para cada plataforma. Tiene muchísimos parámetros de optimización. Tiene un acceso directo a la memoria, que además controla el usuario. Tiene una integración directa con el lenguaje ensamblador, tan directa que incluso permite escribir directamente en ensamblador con las diferentes directivas.
