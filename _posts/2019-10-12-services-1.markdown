@@ -1,6 +1,6 @@
 ---
 layout: default
-img: imagenc++.png
+img: imagenc.png
 category: Services
 title: Algoritmo y Programacion en Software
 description: |
