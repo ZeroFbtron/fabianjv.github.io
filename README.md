@@ -9,7 +9,6 @@ Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/
 ```txt
 ---
 layout: default
-img: SIUG-banner-01.png
 category: Services
 title: The service title
 ---
