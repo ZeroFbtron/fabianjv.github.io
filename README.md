@@ -9,7 +9,7 @@ Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/
 ```txt
 ---
 layout: default
-img: ipad.png
+img: imagen c++.png
 category: Services
 title: The service title
 ---
@@ -20,7 +20,7 @@ The description of this service
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/intro-bg.PNG)
 
 ===
 
