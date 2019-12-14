@@ -2,7 +2,7 @@
 layout: default
 img: imagenc++.png
 category: Services
-title: Algoritmo y Programacion en Software<br>C++
+title: Algoritmo y Programacion en Software
 description: |
 ---
   C++ tiene un alto rendimiento por varios motivos: Permite hacer llamadas directamente al Sistema Operativo. Es un lenguaje compilado para cada plataforma. Tiene muchísimos parámetros de optimización. Tiene un acceso directo a la memoria, que además controla el usuario. Tiene una integración directa con el lenguaje ensamblador, tan directa que incluso permite escribir directamente en ensamblador con las diferentes directivas.
