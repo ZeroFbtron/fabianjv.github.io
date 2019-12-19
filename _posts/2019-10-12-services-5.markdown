@@ -1,6 +1,6 @@
 ---
 layout: default
-img: procesos.jpg
+img: procesossos.png
 category: Services
 title: Temas de clase III & IV
 description: |
