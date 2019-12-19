@@ -5,20 +5,19 @@ category: Services
 title: Temas de clase I & II
 description: |
 ---
-<h1>Fundamentos a la IngenierÌa de ProgramaciÛn</h1>
-<p>DefiniciÛn de IS seg˙n Fritz Bauer, 1969: M·s que una disciplina o una parte del conocimiento, la IngenierÌa es un verbo, una palabra de acciÛn, un modo de enfocar el problema. Puede definirse seg˙n Alan Davis como "la aplicaciÛn inteligente de principios probados, tÈcnicos, lenguajes y herramientas para la creaciÛn y mantenimiento, dentro de un coste razonable, de software que satisfaga las necesidades de los usuarios".</p>
-<p>Objetivos de la IS: DiseÒar programas inform·ticos que se adec˙en a las exigencias de la sociedad. Realizar el seguimiento de costes y plazos. Liderar equipos de trabajo de desarrollo software.</p>
-<p>Origen de IS: Su origen se debiÛ a que el entorno de desarrollo de sistemas aoftware adolecÌa de los retrasos considerables en la planificaciÛn, poca productividad, elevadas cargas de mantemiento, baja calidad y fiabilidad del producto.</p>
-<p>La evoluciÛn del Software: Seg˙n Ned Chapin (1999) lo definiÛ como "la aplicaciÛn de las actividades y procesos de mantenimiento del software que generan una nueva versiÛn operative de un software con una funcionalidad de usuario o propiedades cambiadas a partir de una versiÛn anterior".</p>
-<p>La crisis del software: Formalismo y metodologÌa. Herramientas de soporte. AdministraciÛn eficaz.</p>
-<p>øPor quÈ se crea la IS? La ingenierÌa de software se crea debido a las siguientes caracterÌsticas: -El producto debe ser confiable y realizar sÛlo las tareas especificadas en los requerimientos.-El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio.</p>
-<p>El software en la actualidad: Las direcciones en las que evoluciona la ingenierÌa del software hoy en dÌa pueden agruparse de la siguiente manera: MetodologÌas ·giles, ExperimentaciÛn, Desarrollo dirigido por modelos, LÌneas de productos software.</p>
-
-<h2>Sistemas de informaciÛn</h2>
-<p>Factores de calidad del Software: Calidad del software, medidas directas e indirectas.</p>
-<p>MÈtricas del Software: Son las que est·n con el desarrollo del software como funcionalidad, complejidad y eficiencia.</p>
-<p>Problemas en el desarrollo de software: øQuÈ es un proyecto software? Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado u¥nico.</p>
-<p>øPero que es el software?: Seg˙n la definiciÛn del IEEE, ìsoftware es la suma total de los programas de ordenador, procedimientos, reglas, la documentacio¥n asociada y los datos que pertenecen a un sistema de co¥mputoî, y ìun producto de software es un producto disen~ado para un usuarioî.</p>
-<p>El software puede dividirse en dos grandes categorÌas: Software de aplicaciones y Software de sistemas.</p>
-<p>Ingenieri¥a del software: La Ingenieri¥a del Software es la rama de la ingenieri¥a que crea y mantiene las aplicaciones de software usando tecnologi¥as y pra¥cticas de las ciencias de la computacio¥n, manejo de proyectos, ingenieri¥a, el a¥mbito de la aplicacio¥n, y otros campos..</p>
-<p>CÛdigo de Ètica (ACM/IEEE): Principios del cÛdigo: P˙blico, Cliente y Empleador, Producto, Juicio, Gerencia, ProfesiÛn, Colegas, InterÈs Propio.</p>
+<h1>Fundamentos a la Ingenier√≠a de Programaci√≥n</h1>
+<p>Definici√≥n de IS seg√∫n Fritz Bauer, 1969: M√°s que una disciplina o una parte del conocimiento, la Ingenier√≠a es un verbo, una palabra de acci√≥n, un modo de enfocar el problema. Puede definirse seg√∫n Alan Davis como "la aplicaci√≥n inteligente de principios probados, t√©cnicos, lenguajes y herramientas para la creaci√≥n y mantenimiento, dentro de un coste razonable, de software que satisfaga las necesidades de los usuarios".</p>
+<p>Objetivos de la IS: Dise√±ar programas inform√°ticos que se adec√∫en a las exigencias de la sociedad. Realizar el seguimiento de costes y plazos. Liderar equipos de trabajo de desarrollo software.</p>
+<p>Origen de IS: Su origen se debi√≥ a que el entorno de desarrollo de sistemas aoftware adolec√≠a de los retrasos considerables en la planificaci√≥n, poca productividad, elevadas cargas de mantemiento, baja calidad y fiabilidad del producto.</p>
+<p>La evoluci√≥n del Software: Seg√∫n Ned Chapin (1999) lo defini√≥ como "la aplicaci√≥n de las actividades y procesos de mantenimiento del software que generan una nueva versi√≥n operative de un software con una funcionalidad de usuario o propiedades cambiadas a partir de una versi√≥n anterior".</p>
+<p>La crisis del software: Formalismo y metodolog√≠a. Herramientas de soporte. Administraci√≥n eficaz.</p>
+<p>¬øPor qu√© se crea la IS? La ingenier√≠a de software se crea debido a las siguientes caracter√≠sticas: -El producto debe ser confiable y realizar s√≥lo las tareas especificadas en los requerimientos.-El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio.</p>
+<p>El software en la actualidad: Las direcciones en las que evoluciona la ingenier√≠a del software hoy en d√≠a pueden agruparse de la siguiente manera: Metodolog√≠as √°giles, Experimentaci√≥n, Desarrollo dirigido por modelos, L√≠neas de productos software.</p>
+<h2>Sistemas de informaci√≥n</h2>
+Factores de calidad del Software: Calidad del software, medidas directas e indirectas.
+M√©tricas del Software: Son las que est√°n con el desarrollo del software como funcionalidad, complejidad y eficiencia.
+Problemas en el desarrollo de software: ¬øQu√© es un proyecto software? Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado √∫nico.
+¬øPero que es el software?: Seg√∫n la definici√≥n del IEEE, ‚Äúsoftware es la suma total de los programas de ordenador, procedimientos, reglas, la documentaci√≥n asociada y los datos que pertenecen a un sistema de c√≥mputo‚Äù, y ‚Äúun producto de software es un producto dise√±ado para un usuario‚Äù.
+El software puede dividirse en dos grandes categor√≠as: Software de aplicaciones y Software de sistemas.
+Ingenier√≠a del software: La Ingenier√≠a del Software es la rama de la ingenieri¬¥a que crea y mantiene las aplicaciones de software usando tecnolog√≠as y pr√°cticas de las ciencias de la computacio¬¥n, manejo de proyectos, ingenier√≠a, el √°mbito de la aplicaci√≥n, y otros campos.
+C√≥digo de √©tica (ACM/IEEE): Principios del c√≥digo: P√∫blico, Cliente y Empleador, Producto, Juicio, Gerencia, Profesi√≥n, Colegas, Inter√©s Propio.
