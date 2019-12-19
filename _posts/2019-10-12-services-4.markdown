@@ -14,10 +14,10 @@ description: |
 <p>¿Por qué se crea la IS? La ingeniería de software se crea debido a las siguientes características: -El producto debe ser confiable y realizar sólo las tareas especificadas en los requerimientos.-El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio.</p>
 <p>El software en la actualidad: Las direcciones en las que evoluciona la ingeniería del software hoy en día pueden agruparse de la siguiente manera: Metodologías ágiles, Experimentación, Desarrollo dirigido por modelos, Líneas de productos software.</p>
 <h2>Sistemas de información</h2>
-Factores de calidad del Software: Calidad del software, medidas directas e indirectas.
-Métricas del Software: Son las que están con el desarrollo del software como funcionalidad, complejidad y eficiencia.
-Problemas en el desarrollo de software: ¿Qué es un proyecto software? Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado único.
-¿Pero que es el software?: Según la definición del IEEE, “software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada y los datos que pertenecen a un sistema de cómputo”, y “un producto de software es un producto diseñado para un usuario”.
-El software puede dividirse en dos grandes categorías: Software de aplicaciones y Software de sistemas.
-Ingeniería del software: La Ingeniería del Software es la rama de la ingeniería que crea y mantiene las aplicaciones de software usando tecnologías y prácticas de las ciencias de la computación, manejo de proyectos, ingeniería, el ámbito de la aplicación, y otros campos.
-Código de ética (ACM/IEEE): Principios del código: Público, Cliente y Empleador, Producto, Juicio, Gerencia, Profesión, Colegas, Interés Propio.
+<p>Factores de calidad del Software: Calidad del software, medidas directas e indirectas.</p>
+<p>Métricas del Software: Son las que están con el desarrollo del software como funcionalidad, complejidad y eficiencia.</p>
+<p>Problemas en el desarrollo de software: ¿Qué es un proyecto software? Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado único.</p>
+<p>¿Pero que es el software?: Según la definición del IEEE, “software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada y los datos que pertenecen a un sistema de cómputo”, y “un producto de software es un producto diseñado para un usuario”.</p>
+<p>El software puede dividirse en dos grandes categorías: Software de aplicaciones y Software de sistemas.</p>
+<p>Ingeniería del software: La Ingeniería del Software es la rama de la ingeniería que crea y mantiene las aplicaciones de software usando tecnologías y prácticas de las ciencias de la computación, manejo de proyectos, ingeniería, el ámbito de la aplicación, y otros campos.
+<p>Código de ética (ACM/IEEE): Principios del código: Público, Cliente y Empleador, Producto, Juicio, Gerencia, Profesión, Colegas, Interés Propio.</p>
