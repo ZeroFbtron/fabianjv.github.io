@@ -7,12 +7,18 @@ description: |
 ---
 <h5>Modelos de Procesos de Software.</h5>
 <p>Modelo de Cascada: Las fases están identificadas por separado:
+
 -El análisis y definición de requerimientos
+
 -Diseño del sistema y software
+
 -Pruebas de implementación de unidades
+
 -Integración y pruebas del sistema
+
 -Operación y mantenimiento
 El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</p>
+
 <p>Desarrollo incremental: 
 -El costo de atender las necesidades cambiantes de los clientes se reduce.
 -Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.
