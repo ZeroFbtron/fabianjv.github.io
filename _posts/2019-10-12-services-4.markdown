@@ -1,6 +1,7 @@
 ---
 layout: default
-img: codigo.jpg # procesossos.png
+img: codigo.jpg
+img 2: procesossos.png
 category: Services
 title: Temas de clase I & II
 description: |
