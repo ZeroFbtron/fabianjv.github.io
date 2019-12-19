@@ -19,5 +19,5 @@ Métricas del Software: Son las que están con el desarrollo del software como f
 Problemas en el desarrollo de software: ¿Qué es un proyecto software? Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado único.
 ¿Pero que es el software?: Según la definición del IEEE, “software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada y los datos que pertenecen a un sistema de cómputo”, y “un producto de software es un producto diseñado para un usuario”.
 El software puede dividirse en dos grandes categorías: Software de aplicaciones y Software de sistemas.
-Ingeniería del software: La Ingeniería del Software es la rama de la ingenieri´a que crea y mantiene las aplicaciones de software usando tecnologías y prácticas de las ciencias de la computacio´n, manejo de proyectos, ingeniería, el ámbito de la aplicación, y otros campos.
+Ingeniería del software: La Ingeniería del Software es la rama de la ingeniería que crea y mantiene las aplicaciones de software usando tecnologías y prácticas de las ciencias de la computación, manejo de proyectos, ingeniería, el ámbito de la aplicación, y otros campos.
 Código de ética (ACM/IEEE): Principios del código: Público, Cliente y Empleador, Producto, Juicio, Gerencia, Profesión, Colegas, Interés Propio.
